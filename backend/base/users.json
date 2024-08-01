@@ -1,0 +1,18 @@
+[
+    {
+        "id": "8776d8e1-5cb7-4922-9dc2-4b10ffc1fbe6",
+        "name": "Saidakbar",
+        "age": "15",
+        "job": "student",
+        "email": "sa1dakbarnu777@gmail.com",
+        "password": "12345678"
+    },
+    {
+        "id": "61104faa-537d-4be7-9641-27adceeedac3",
+        "name": "Saidakbar",
+        "age": "15",
+        "job": "student",
+        "email": "sa1dakbarnu123@gmail.com",
+        "password": "1234"
+    }
+]
